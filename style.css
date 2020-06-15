@@ -155,7 +155,7 @@ body.light .toggle::before
     .toggle{
         align-items: center;
         top:30px;
-        left: 40%;
+        left: 35%;
     }
     .txt{
         top:380px; 
@@ -175,9 +175,9 @@ body.light .toggle::before
     body.light .clock
     {
         
-        box-shadow: -8px -8px 15px rgba(255,255,255, 0.5),
-                    10px 10px 10px rgba(0, 0, 0, 0.1),
-                    inset -8px -8px 15px rgba(255,255,255, 0.5),
-                    inset 10px 10px 10px rgba(0, 0, 0, 0.1),
+        box-shadow: -5px -5px 10px rgba(255,255,255, 0.5),
+                    10px 7px 5px rgba(0, 0, 0, 0.1),
+                    inset -5px -5px 10px rgba(255,255,255, 0.5),
+                    inset 7px 10px 5px rgba(0, 0, 0, 0.1),
     }
 }
