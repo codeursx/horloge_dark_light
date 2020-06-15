@@ -157,13 +157,12 @@ body.light .toggle::before
         top:30px;
     }
     .txt{
-       
-        top:420px;
-        
+        top:380px; 
     }
     
     .clock{
         width: 250px;
         height:250px;
+        margin-top: -130px;
     }
 }
