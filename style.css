@@ -151,14 +151,19 @@ body.light .toggle::before
     content: 'Dark Mode';
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
     .toggle{
-        
+        align-items: center;
         top:30px;
+    }
+    .txt{
+       
+        top:420px;
         
     }
+    
     .clock{
-        width: 200px;
-        height:200px;
+        width: 250px;
+        height:250px;
     }
 }
