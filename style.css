@@ -158,6 +158,7 @@ body.light .toggle::before
     }
     .txt{
         top:380px; 
+        left: 40%;
     }
     
     .clock{
