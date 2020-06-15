@@ -155,10 +155,11 @@ body.light .toggle::before
     .toggle{
         align-items: center;
         top:30px;
+        left: 40%;
     }
     .txt{
         top:380px; 
-        left: 40%;
+        
     }
     
     .clock{
